@@ -1,0 +1,1 @@
+/usr/bin/g++-11 -g -rdynamic CMakeFiles/read.dir/read.cpp.o -o read 

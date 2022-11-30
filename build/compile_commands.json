@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/molijuly/myProjects/cppPractice/build",
+  "command": "/usr/bin/g++-11   -g -o CMakeFiles/shared_memory.dir/main.cpp.o -c /home/molijuly/myProjects/cppPractice/main.cpp",
+  "file": "/home/molijuly/myProjects/cppPractice/main.cpp"
+},
+{
+  "directory": "/home/molijuly/myProjects/cppPractice/build",
+  "command": "/usr/bin/g++-11   -g -o CMakeFiles/read.dir/read.cpp.o -c /home/molijuly/myProjects/cppPractice/read.cpp",
+  "file": "/home/molijuly/myProjects/cppPractice/read.cpp"
+}
+]
